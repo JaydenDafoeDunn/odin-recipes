@@ -1,0 +1,23 @@
+.container {
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    font-weight: bold;
+    color: green;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+
+
+.image{
+    height: 200px;
+    width: 200px;
+}
